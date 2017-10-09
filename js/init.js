@@ -149,7 +149,7 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "http://formspree.io/vyl@usc.com",
+	      url: "http://formspree.io/vyl@usc.edu",
 	      data: {
           "name": contactName,
           "email": contactEmail,
